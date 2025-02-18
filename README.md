@@ -1,6 +1,6 @@
 🏦 US Bank Closures Since 2000 - Power BI Report
 
-This repository contains a Power BI report analyzing bank closures across the United States from 2000 onwards. The report provides insights into closure trends, geographic distribution, and notable patterns in the data.
+This repository contains a Power BI report analysing bank closures across the United States from 2000 onwards. The report provides insights into closure trends, geographic distribution, and notable patterns in the data.
 
 📝 Overview
 
